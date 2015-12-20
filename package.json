@@ -1,0 +1,9 @@
+{
+  "name": "techdays2015",
+  "version": "0.0.1",
+  "private":true,
+  "description": "demo app for Techdays 2015",
+  "dependencies": {
+    "azure-iot-device": "latest"
+  }
+}
